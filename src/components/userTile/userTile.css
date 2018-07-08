@@ -1,0 +1,16 @@
+td.tile-content {
+  text-align: center;
+}
+
+p.text-content {
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+p.bold {
+  font-weight: bold;
+}
+
+p.cloud {
+  font-size: 20px;
+}
